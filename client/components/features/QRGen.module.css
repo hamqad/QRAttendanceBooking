@@ -1,0 +1,13 @@
+.container {
+    height: 100%;
+    display:fixed;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 70%;
+    margin:auto;
+}
+
+.button {
+    text-align-last: center;
+}

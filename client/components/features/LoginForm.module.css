@@ -1,0 +1,33 @@
+.form {
+  position: absolute;
+  left: 39.1%;
+  width: 20%;
+  
+  
+}
+
+.logo {
+  width: 120%;
+  margin: auto;
+}
+
+.logo {
+  width: 120%;
+  margin: auto;
+}
+
+.input {
+  width: 120%;
+  padding-top: 50%;
+  padding:5%;
+  margin:5%;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+
+.submit {
+  width: 120%;
+  padding:5%;
+  margin: 5%;
+  box-sizing: border-box;
+}

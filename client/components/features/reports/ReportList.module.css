@@ -1,0 +1,10 @@
+.container {
+    width: 75%;
+    margin: auto;
+}
+
+.itemlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}

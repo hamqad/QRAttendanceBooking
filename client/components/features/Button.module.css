@@ -1,0 +1,25 @@
+.button {
+  background-color: rgb(1,0,72);
+  color: white;
+  font-size: 19.4px;
+  padding: 15px 60px;
+  border-radius: 100px;
+  margin: 0px 20px;
+  cursor: pointer;
+  border: none;
+}
+
+.locked {
+  background-color: rgb(115, 115, 120);
+  color: white;
+  font-size: 19.4px;
+  padding: 15px 60px;
+  border-radius: 100px;
+  margin: 0px 20px;
+  cursor: pointer;
+  border: none;
+}
+
+.content {
+  color: white;
+}

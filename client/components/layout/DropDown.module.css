@@ -1,0 +1,11 @@
+.items {
+    font-size: 18   px;
+    margin-left: 10%;
+}
+
+
+.items a:hover,
+.items a:active,
+.items a.active {
+  color: rgb(126, 126, 126);
+}

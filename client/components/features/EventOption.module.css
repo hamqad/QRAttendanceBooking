@@ -1,0 +1,26 @@
+.container{
+    padding: 16px 0px;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap:5px;
+}
+
+.name{
+font-size:1.1rem;
+text-align-last: left;
+}
+
+.input{
+    text-align-last: right;
+}
+
+.input select{
+    padding: 0.4rem 3.59rem;
+    border-radius: 3px;
+}
+
+.input input{
+    padding: 0.4rem 1rem;
+    border-radius: 5px;
+    border-width: 1px;
+}

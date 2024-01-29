@@ -1,0 +1,107 @@
+.settings{
+    margin: auto;
+}
+
+.text{
+    font-size: x-large;
+    float: left;
+}
+
+.item {
+    z-index: -1;
+    border-top: solid;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    border-color: rgb(0, 0, 0);
+    width: 300%;
+    float: left;
+    position: relative;
+    left: -100%;
+}
+
+.topitem {
+    z-index: -1;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    border-color: rgb(0, 0, 0);
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    float: right;
+    margin-top: 4%;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+/* The slider */
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 42px;
+    width: 60px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+input:checked+.slider {
+    background-color: #2196F3;
+}
+
+input:focus+.slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked+.slider:before {
+    -webkit-transform: translateX(31px);
+    -ms-transform: translateX(31px);
+    transform: translateX(31px);
+}
+
+.email{
+    padding-top: 3px;
+    float: right;
+    width: 20%;
+    display: flex;
+}
+
+.input {
+    float: right;
+    margin-top: 2.54%;
+    width: 200%;
+    height: 40px;
+}
+
+.submit{
+    float: right;
+    width: 110%;
+    padding:4%;
+    margin: 3%;
+    box-sizing: border-box;
+}

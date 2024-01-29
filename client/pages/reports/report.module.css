@@ -1,0 +1,29 @@
+/* CSS Used by every report */
+
+/* Main title of report */
+.title {
+    font-size: larger;
+    margin-left: 25%;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/* Body of details at top of report */
+.details {
+    margin-left: 30%;
+}
+
+/* Single detail line */
+.detail {
+
+}
+
+/* Body of report data */
+.report {
+    
+}
+
+.button {
+    margin-left: 10%;
+}

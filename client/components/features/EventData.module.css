@@ -1,0 +1,48 @@
+.container{
+    padding: 16px 0px;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap:5px;
+}
+
+.header {
+    padding: 1px;
+    text-align: center;
+    color: rgb(1,0,72);
+    font-size: 30px;   
+    font-weight: 600;
+    margin-right: 5%;
+    z-index: 0;
+    position:relative;
+}
+
+
+.name{
+font-size:1.1rem;
+text-align-last: left;
+}
+
+.input{
+    text-align-last: right;
+}
+
+.input select{
+    padding: 0.4rem 3.59rem;
+    border-radius: 3px;
+}
+
+.input input{
+    padding: 0.4rem 1rem;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.fieldset {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    }
+
+.button {
+    text-align-last: center;
+}

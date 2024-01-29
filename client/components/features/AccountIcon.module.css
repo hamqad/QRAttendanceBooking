@@ -1,0 +1,21 @@
+.container {
+    display: grid;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.icon {
+  max-width: 50%;
+  margin: auto;
+  border-radius: 50%;
+}
+
+
+.text {
+    align-self: center;
+    margin: auto;
+    padding: 5%;
+    font-size: 150%;
+}

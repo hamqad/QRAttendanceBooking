@@ -1,0 +1,60 @@
+.container {
+    border-top: solid;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-color: rgb(0, 0, 0);
+    width: 300%;
+    float: left;
+    position: relative;
+    left: -100%;
+}
+
+@media (max-width: 850px) {
+    .container {
+        border-top: solid;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        border-color: rgb(0, 0, 0);
+        width: 300%;
+        float: left;
+        position: relative;
+        left: -75%;
+    }
+}
+
+.text {
+    float: left;
+    margin-bottom: 1px;
+    padding-left: 10px;
+    position: relative;
+}
+
+.title {
+    text-align: center;
+}
+
+
+.module {
+    text-align: left;
+    top: 150%;
+}
+
+.date {
+    text-align: justify;
+    top: 150%;
+}
+
+.button {
+    position: relative;
+    margin-left: 10%;
+    margin: 20px 0px;
+    float: right;
+}
+
+.content {
+    padding-top: 5%;
+    display: none;
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+
