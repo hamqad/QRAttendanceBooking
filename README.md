@@ -6,17 +6,6 @@ The React JS application is an attendance booking system. This manages events to
   <img src="./img/lectTheatre.png" alt="Size Limit CLI" width="500">
 </p>
 
-## Roles
-These are our assigned roles:
->Team leader - Hamzah Qadri
->
->Git Lead - Jeremy Cheung
->
->Developer - Bartosz Miroslaw
->
->Developer - Gurjasdeep Singh
->
-
 ## Documentation Links
 * [Trello Board](https://trello.com/b/02OXcLtP/maximising-lecture-theatre-capacity)
 * [Documentation Repositry](https://uniofnottm-my.sharepoint.com/:f:/g/personal/psygm2_nottingham_ac_uk/EjlSay6gD0ZBq-E3v1oxnP4Bh5YH5R0ZSI5nZxbjHbu7tA)
